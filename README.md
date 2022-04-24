@@ -1,4 +1,4 @@
-# BasicHtmlPro
+# BasicAcademicWebsite HTML and CSS
 Created by Doğukan Sahil and licensed under CC0 1.0 Universal.
 # About
 By simply editing HTML, CSS and JS codes, you can code your own website in a simple, fast and practical way.
