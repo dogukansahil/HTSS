@@ -1,6 +1,5 @@
 # BasicHtmlPro
 Created by Doğukan Sahil and licensed under CC0 1.0 Universal.
-[@twitter](https://www.twitter.com/dogukansahil).
 # About
 By simply editing HTML, CSS and JS codes, you can code your own website in a simple, fast and practical way.
 It is coded for purposes such as sharing personal academic websites, blog posts.
@@ -40,3 +39,5 @@ CC0 1.0 Universal (CC0 1.0)
 Public Domain Dedication
 You have the right to use the files here, without changing or even changing the pictures.
 Images may be subject to copyright, please change.
+
+* [Twitter](https://www.twitter.com/dogukansahil).
