@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+You can change the language tag
+-->
+	<head>
+		<title>Contact</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="icon" type="image/x-icon" href="images/fav.ico">
+		<meta name="description" content="Seo Description">
+		<meta name="keywords" content="Keywords, Keywords">
+		<meta name="author" content="Author">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="style.css">
+    <style type="text/css">
+		<style>
+		.avatar img {
+  	border-radius: 50%;
+  	float: right;
+		}
+		.avatar{
+		float: right;
+		display: inline-block;
+		position: relative;
+		width: 200px;
+		height: 200px;
+		overflow: hidden;
+		border-radius: 50%;
+		border: 5px solid #E6534C;
+		padding: 5px;
+		}
+		.mail{
+		background-color: #F0F0F0;
+		margin: auto;
+		padding: 20px;
+		border: 2px solid #E8E8E8;
+		border-radius: 5px;
+		}
+
+		input[type=text], select {
+		width: 100%;
+		padding: 12px 20px;
+		margin: 8px 0;
+		display: inline-block;
+		border: 1px solid #ccc;
+		border-radius: 4px;
+		box-sizing: border-box;
+		}
+		input[type=submit] {
+  	width: 100%;
+  	background-color: #690013;
+  	color: white;
+  	padding: 14px 20px;
+  	margin: 8px 0;
+  	border: none;
+  	border-radius: 4px;
+  	cursor: pointer;
+		}
+		input[type=submit]:hover {
+  	background-color: #B00020;
+		}
+	</style>
+	<body>
+		<ul>
+			<li><h3><a href="index.html">Home</a></h3></li>
+  		<li><h3><a href="all.html">All Pages</a></h3></li>
+  		<li><h3><a href="blog.html">Blog</a></h3></li>
+  		<li><h3><a href="about.html">About Me</a></h3></li>
+  		<li><h3><a href="contact.html">Contact</a></h3></li>
+		</ul>
+<div class="content">
+<div class="table">
+<dl>
+<img class="avatar" src="images/avatar.jpg" alt="dogukansahil">
+			<h1>My Links</h1>
+<dt><h2><a href="mailto:someone@example.com">lorem@ipsum.dolor</a></h2></dt>
+<dt><h2><a href="tel:+4733378901"><b>Phone: +00 000 000 00 00</b></a></h2></dt>
+<dt><h2><a href="#">Facebook</a></h2></dt>
+<dt><h2><a href="#">Twitter</a></h2></dt>
+<dt><h2><a href="#">Instagram</a></h2></dt>
+<dt><h2><a href="#">Whatsapp</a></h2></dt>
+
+</dl></div>
+<hr>
+<div style="float:left;width:49%;">
+	<div class="mail">
+					<h1>Contact to me</h1>
+		<form action="mailto:you@mailadress.com" method="post" enctype="text/plain">
+	<h2>	Name:<br></h2>
+		<input type="text" name="Name"><br>
+	<h2>	E-mail:<br></h2>
+		<input type="text" name="Mail"><br>
+	<h2>	Comment:<br></h2>
+		<input type="text" name="Comment" size="50"><br><br>
+		<input type="submit" value="Send">
+		</form>
+	</div>
+</div>
+
+<div style="float:right;width:49%;">
+	<div class="table">
+		<h1>My Skills</h1>
+<!--
+More Graph https://apexcharts.com/ Thanks <3
+-->
+		<script>
+		window.Promise ||
+			document.write(
+				'<script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.min.js"><\/script>'
+			)
+		window.Promise ||
+			document.write(
+				'<script src="https://cdn.jsdelivr.net/npm/eligrey-classlist-js-polyfill@1.2.20171210/classList.min.js"><\/script>'
+			)
+		window.Promise ||
+			document.write(
+				'<script src="https://cdn.jsdelivr.net/npm/findindex_polyfill_mdn"><\/script>'
+			)
+	</script>
+	<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+	<script src="https://cdn.jsdelivr.net/npm/vue-apexcharts"></script>
+	<script>
+
+		var _seed = 42;
+		Math.random = function() {
+			_seed = _seed * 16807 % 2147483647;
+			return (_seed - 1) / 2147483646;
+		};
+	</script>
+	<div id="app">
+		<div id="chart">
+		<apexchart type="radar" height="350" weight="500px" :options="chartOptions" :series="series"></apexchart>
+	</div>
+	</div>
+	<script>
+		new Vue({
+			el: '#app',
+			components: {
+				apexchart: VueApexCharts,
+			},
+			data: {
+
+				series: [{
+					name: 'My Skills',
+					data: [90,80,60,75,70,80],
+				}
+			],
+				chartOptions: {
+					chart: {
+						height: 350,
+						weight: 500,
+						type: 'radar',
+					},
+					title: {
+						text: ''
+					},
+					xaxis: {
+						categories: ['A','B','C','4','5','6',]
+					}
+				},
+
+
+			},
+
+		})
+	</script>
+	</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+<ul>
+	<p style="float:right;width:450px;color:white;">Basic HTML PRO V1HTML2022.4 | All right reserved &#169;</p>
+</ul>
+</body>
+</html>
