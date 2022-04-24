@@ -40,4 +40,4 @@ Public Domain Dedication
 You have the right to use the files here, without changing or even changing the pictures.
 Images may be subject to copyright, please change.
 
-* [Twitter](https://www.twitter.com/dogukansahil).
+* [Twitter](https://www.twitter.com/dogukansahil)
