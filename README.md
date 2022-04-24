@@ -9,6 +9,7 @@ It is coded for purposes such as sharing personal academic websites, blog posts.
 ![Screenshots](https://github.com/dogukansahil/BasicHtmlPro/blob/main/Screenshoots/2.png)
 
 # Setup
+* [Download Link](https://github.com/dogukansahil/BasicHtmlPro/releases)
 * You just need to upload all the files to your hosting server.
 * index.html It will be your homepage.
 * To replace pictures, simply upload pictures with the same extension (.jpg) to the "IMAGES" folder. 
@@ -41,3 +42,4 @@ You have the right to use the files here, without changing or even changing the 
 Images may be subject to copyright, please change.
 
 * [Twitter](https://www.twitter.com/dogukansahil)
+
