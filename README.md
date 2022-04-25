@@ -9,6 +9,7 @@ It is coded for purposes such as sharing personal academic websites, blog posts.
 ![Screenshots](https://github.com/dogukansahil/BasicHtmlPro/blob/main/Screenshoots/3.png)
 # Setup
 * [Download Link](https://github.com/dogukansahil/BasicHtmlPro/releases)
+* Select the dark or light theme you want to use.
 * You just need to upload all the files to your hosting server.
 * index.html It will be your homepage.
 * To replace pictures, simply upload pictures with the same extension (.jpg) to the "IMAGES" folder. 
