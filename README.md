@@ -6,11 +6,11 @@ It is coded for purposes such as sharing personal academic websites, blog posts.
 * [Demo](https://dogukansahil.com.tr/demo/index.html)
 # Screenshots
 Homepage/Light
-![Screenshots](https://github.com/dogukansahil/BasicHtmlPro/blob/main/Screenshoots/1.png)
+![Screenshots](https://www.dogukansahil.com.tr/1.png)
 Blog/Dark
-![Screenshots](https://github.com/dogukansahil/BasicHtmlPro/blob/main/Screenshoots/3.png)
+![Screenshots](https://www.dogukansahil.com.tr/3.png)
 Contact/Dark
-![Screenshots](https://github.com/dogukansahil/BasicHtmlPro/blob/main/Screenshoots/5.png)
+![Screenshots](https://www.dogukansahil.com.tr/5.png)
 # Setup
 * [Download Link](https://github.com/dogukansahil/BasicHtmlPro/releases)
 * Select the dark or light theme you want to use.
