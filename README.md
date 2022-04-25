@@ -35,7 +35,7 @@ For more information [Google Support](https://support.google.com/adsense/answer/
 ## 1.0 
 * Features such as avatar, google ads, contact form are available
 * Added Dark and Light theme.
-* 7 pages in total.
+* 6 pages in total. (Home, All pages, Blog, Abot me, Contact and New post/article page.)
 # Thanks
 Special thanks to Atom.io and ApexCharts
 # Lisance
