@@ -31,6 +31,7 @@ For more information [Google Support](https://support.google.com/adsense/answer/
 * Note2: For more information on HTML CSS and JS: [W3 Schools](https://www.w3schools.com/TAgs/default.asp).
 # Release
 ## 1.1
+* Unnecessary pages removed.
 * Some bugs fixed.
 ## 1.0 
 * Features such as avatar, google ads, contact form are available
