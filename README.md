@@ -3,6 +3,7 @@ Created by Doğukan Sahil and licensed under CC0 1.0 Universal.
 # About
 By simply editing HTML, CSS and JS codes, you can code your own website in a simple, fast and practical way.
 It is coded for purposes such as sharing personal academic websites, blog posts.
+The entire site is targeted to be under 1 mb.
 * [Demo](https://dogukansahil.com.tr/demo/index.html)
 # Screenshots
 Homepage/Light
@@ -34,13 +35,15 @@ We wish you pleasant use. For all your questions, you can reach the person who c
 For more information [Google Support](https://support.google.com/adsense/answer/7584263?hl=en).
 * Note2: For more information on HTML CSS and JS: [W3 Schools](https://www.w3schools.com/TAgs/default.asp).
 # Release
-## 1.1
+## 1.3 First stable version released (745KB)
+* Unnecessary files have been deleted.
 * Unnecessary pages removed.
 * Some bugs fixed.
-## 1.0 
-* Features such as avatar, google ads, contact form are available
+* Created.
+* Features such as avatar, google ads, contact form are available.
 * Added Dark and Light theme.
 * 6 pages in total. (Home, All pages, Blog, Abot me, Contact and New post/article page.)
+
 # Thanks
 Special thanks to Atom.io and ApexCharts
 # Lisance
