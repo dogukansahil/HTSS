@@ -3,11 +3,10 @@ Created by Doğukan Sahil and licensed under CC0 1.0 Universal.
 # About
 By simply editing HTML, CSS and JS codes, you can code your own website in a simple, fast and practical way.
 It is coded for purposes such as sharing personal academic websites, blog posts.
+* [Demo](https://dogukansahil.com.tr/demo/index.html)
 # Screenshots
 ![Screenshots](https://github.com/dogukansahil/BasicHtmlPro/blob/main/Screenshoots/1.png)
-
-![Screenshots](https://github.com/dogukansahil/BasicHtmlPro/blob/main/Screenshoots/2.png)
-
+![Screenshots](https://github.com/dogukansahil/BasicHtmlPro/blob/main/Screenshoots/3.png)
 # Setup
 * [Download Link](https://github.com/dogukansahil/BasicHtmlPro/releases)
 * You just need to upload all the files to your hosting server.
