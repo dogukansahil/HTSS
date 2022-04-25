@@ -30,9 +30,12 @@ We wish you pleasant use. For all your questions, you can reach the person who c
 For more information [Google Support](https://support.google.com/adsense/answer/7584263?hl=en).
 * Note2: For more information on HTML CSS and JS: [W3 Schools](https://www.w3schools.com/TAgs/default.asp).
 # Release
+## 1.1
+* Some bugs fixed.
 ## 1.0 
 * Features such as avatar, google ads, contact form are available
 * Added Dark and Light theme.
+* 7 pages in total.
 # Thanks
 Special thanks to Atom.io and ApexCharts
 # Lisance
