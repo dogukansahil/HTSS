@@ -4,7 +4,7 @@ Created by Doğukan Sahil and licensed under CC0 1.0 Universal.
 By simply editing HTML, CSS and JS codes, you can code your own website in a simple, fast and practical way.
 It is coded for purposes such as sharing personal academic websites, blog posts.
 The entire site is targeted to be under 1 mb.
-* [Demo](https://dogukansahil.com.tr/demo/index.html)
+* [Demo Website (Less than 10mb.)](https://dogukansahil.com.tr/demo/index.html)
 # Screenshots
 Homepage/Light
 ![Screenshots](https://www.dogukansahil.com.tr/1.png)
@@ -17,14 +17,14 @@ Contact/Dark
 * Select the dark or light theme you want to use.
 * You just need to upload all the files to your hosting server.
 * index.html It will be your homepage.
-* To replace pictures, simply upload pictures with the same extension (.jpg) to the "IMAGES" folder. 
+* To replace pictures, simply upload pictures with the same extension (.jpg) to the "IMAGES" folder.
 * To change or remove titles, simply change the text LOREM IPSUM inside the h1, h2 or h3 tags.
 * `Here is a sample code to use <h1> to open </h1> to close.`.
 * `For example: <h1> Hi world </h1>`
 * To change or remove paragraphs, simply change the text LOREM IPSUM inside the `<p>` tags.
 * To change or remove links, simply change the text LOREM IPSUM inside the `<a>` tags.
 * The `<i>` can be used for _italics_ and `<b>` for **bold** text.
-  
+
 * You can Right-click all the codes and replace them with any program used to edit text.
 We recommend atom.io & apexcharts.com
 *To completely remove ads, simply remove the code between `<div class="ads" and </div>`.
@@ -55,4 +55,3 @@ Images may be subject to copyright, please change.
 * To get paid support on customization or setup, please contact me.
 * **mail@dogukansahil.com.tr**
 * [Twitter](https://www.twitter.com/dogukansahil)
-
