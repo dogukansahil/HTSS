@@ -51,6 +51,7 @@ CC0 1.0 Universal (CC0 1.0)
 Public Domain Dedication
 You have the right to use the files here, without changing or even changing the pictures.
 Images may be subject to copyright, please change.
+The apexcharts chart used is not covered by this license. For detailed information https://apexcharts.com/ 
 
 * To get paid support on customization or setup, please contact me.
 * **mail@dogukansahil.com.tr**
