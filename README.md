@@ -4,14 +4,11 @@ Created by Doğukan Sahil and licensed under CC0 1.0 Universal.
 By simply editing HTML, CSS and JS codes, you can code your own website in a simple, fast and practical way.
 It is coded for purposes such as sharing personal academic websites, blog posts.
 The entire site is targeted to be under 1 mb.
-* [Demo Website (Less than 10mb.)](https://dogukansahil.com.tr/demo/index.html)
+* [Demo Website (Less than 10mb.)](https://dogukansahil.com.tr/demo/index.html)!
 # Screenshots
 Homepage/Light
-![Screenshots](https://www.dogukansahil.com.tr/images/1.png)
-Blog/Dark
-![Screenshots](https://www.dogukansahil.com.tr/images/3.png)
-Contact/Dark
-![Screenshots](https://www.dogukansahil.com.tr/images/5.png)
+![Screenshots](https://www.dogukansahil.com.tr/demo/1.png)
+
 # Setup
 * [Download Link](https://github.com/dogukansahil/BasicHtmlPro/releases)
 * Select the dark or light theme you want to use.
