@@ -49,5 +49,5 @@ The apexcharts chart used is not covered by this license. For detailed informati
 
 * To get paid support on customization or setup, please contact me.
 * **mail@dogukansahil.com.tr**
-* [PW] (https://www.dogukansahil.com.tr)
+* [Personal Website](https://www.dogukansahil.com.tr)
 * [Twitter](https://www.twitter.com/dogukansahil)
